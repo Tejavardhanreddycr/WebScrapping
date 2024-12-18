@@ -4,8 +4,6 @@ URL Link Extractor
 This module provides functionality for recursively extracting valid URLs from a given website
 up to a specified depth. It filters out unwanted file types and specific URL patterns.
 
-Author: Unknown
-Date: 2024-12-18
 """
 
 import re 
@@ -247,6 +245,6 @@ if __name__ == "__main__":
 
 
 """
-exaample usage to run the code
+example usage to run the code
 python3 link_extractor.py --head_url "https://example.com" --max_depth 5 --output_file links.csv
 """

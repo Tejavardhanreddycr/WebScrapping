@@ -5,8 +5,6 @@ This module provides functionality for scraping and processing web content from 
 including HTML pages, PDFs, and PowerPoint presentations. It handles data extraction,
 transformation, and storage in JSONL format.
 
-Author: Unknown
-Date: 2024-12-18
 """
 
 from typing import Iterable, List, Tuple, Optional
