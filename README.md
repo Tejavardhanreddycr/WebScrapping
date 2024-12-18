@@ -16,6 +16,16 @@ This project provides tools and scripts for web scraping, allowing users to extr
 - HTML parsing capabilities
 - Data storage and export functionality
 
+## Project Structure
+```
+WebScrapping/
+├── link_extractor.py # URL collector script
+├── web_scraper.py    # Web scraper script
+├── requirements.txt  # Project dependencies
+└── README.md         # Project documentation
+```
+
+
 ## Requirements
 
 - Python 3.x
@@ -53,15 +63,8 @@ This project provides tools and scripts for web scraping, allowing users to extr
    python3 web_scraper.py --input_file links.csv --output_file docs.jsonl
 ```
 
-## Project Structure
 
-```
-WebScrapping/
-├── link_extractor.py # URL collector script
-├── web_scraper.py    # Web scraper script
-├── requirements.txt  # Project dependencies
-└── README.md         # Project documentation
-```
+
 
 ## Contributing
 
