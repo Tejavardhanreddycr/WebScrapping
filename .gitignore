@@ -1,0 +1,6 @@
+# venv
+env
+
+# output files
+links.csv
+output.jsonl
