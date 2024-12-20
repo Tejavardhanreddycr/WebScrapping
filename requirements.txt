@@ -45,4 +45,5 @@ XlsxWriter
 yarl
 pandas
 matplotlib
-python-dotenv 
+python-dotenv
+psycopg2-binary
